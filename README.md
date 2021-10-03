@@ -26,8 +26,12 @@ After that, you will get to see the information of the chosen anime in detail an
 # Requirements 
 packages:
 - tkinter
+- os
+- io
+- pillow
+- matplotlib
 - request
-- bs4
+- beautifulsoup4
 
 # Usage 
 
@@ -54,8 +58,19 @@ packages:
 # Project Structure
 ```
 (Path)                                	(Description)
-Bahamut-Anime-Analysis.git	             Main folder     
+Bahamut-Anime-Analysis.git	            Main folder     
 │  │
-│  ├ 
-(not finished yet)
+│  ├ image                              Images for UI
+│  │ │
+│  │ ├ XXX.png
+│  │ │
+│  │ ├ ...
+│  │ 
+│  ├ web_scraping_package               a package for web scraping
+│  │ │
+│  │ ├ __init__.py
+│  │ │
+│  │ ├ scraping.py                      a module containing functions which extract data from the website.
+│  │ 
+│  ├ main.py                            Main program
 
