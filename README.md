@@ -58,7 +58,7 @@ packages:
 # Project Structure
 ```
 (Path)                                	(Description)
-Bahamut-Anime-Analysis.git	            Main folder     
+Bahamut-Anime-Analysis    	          Main folder     
 │  │
 │  ├ image                              Images for UI
 │  │ │
