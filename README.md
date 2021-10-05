@@ -26,7 +26,7 @@ After that, you will get to see the information of the chosen anime in detail an
 # Requirements 
 packages:
 - tkinter
-- os
+- io
 - pillow
 - matplotlib
 - request
