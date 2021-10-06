@@ -1,10 +1,12 @@
 # Bahamut-Anime-Analysis
+
+# Overview 
+(not finished yet)
+
 A system to introduce upcoming anime on this website : 動畫瘋 and visualize those anime's views per episode to a diagram.  
 (巴哈姆特動畫瘋動漫新番之分析 )
 
 Below are some demo pictures:
-
-(not finished yet)
 
 (https://www.fotor.com/tw/features/collage.html)
 
@@ -20,8 +22,6 @@ Choose one of the anime on the left side list, then click the green button named
 After that, you will get to see the information of the chosen anime in detail and the histogram showing views per eposide.
 ![巴哈4](https://user-images.githubusercontent.com/71260071/135491268-8d78c5c9-9a2d-4da7-bbee-56db93e2b858.PNG)
 
-# Overview 
-(not finished yet)
 
 # Requirements 
 packages:
