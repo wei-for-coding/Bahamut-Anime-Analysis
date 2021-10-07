@@ -1,10 +1,10 @@
 # Bahamut-Anime-Analysis
+A system to introduce upcoming anime on this website : 動畫瘋 and visualize those anime's views per episode to a diagram.  
+(巴哈姆特動畫瘋動漫新番之分析 )
 
 # Overview 
 (not finished yet)
 
-A system to introduce upcoming anime on this website : 動畫瘋 and visualize those anime's views per episode to a diagram.  
-(巴哈姆特動畫瘋動漫新番之分析 )
 
 Below are some demo pictures:
 
