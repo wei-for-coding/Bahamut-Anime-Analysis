@@ -5,6 +5,7 @@ A system to introduce upcoming anime on this website : 動畫瘋 and visualize t
 # Overview 
 
 I collected data from the website named "動畫瘋", which is an anime streaming platform in Taiwan. 
+
 Here is a brief introduction to this website.
 
 (website homepage)
