@@ -15,10 +15,13 @@ Here is a brief introduction to this website.
 (choose any anime you want to see, then enjoy watching anime)
 ![巴哈3](https://user-images.githubusercontent.com/71260071/135491257-c55b8ec0-34ac-435a-8b4a-5e1f5159acd5.PNG)
 
+For anime enthusiasts, is's important to decide which anime to watch.
+So I built a system with GUI to sort out the information(e.g., total vies, user ratings) of upcoming anime, as a criteria.
+
 Below are some demo pictures about this system:
 
 This UI was built with tkinter package.
-At first, this system will rank upcoming anime according to total views and show result on the left side list.
+At first, this system will rank upcoming anime based on total views and show result on the left side list.
 ![巴哈2](https://user-images.githubusercontent.com/71260071/135490449-60357790-fe34-4739-8094-60da5d7a904f.PNG)
 
 Choose one of the anime on the left side list, then click the green button named "顯示詳細資訊".
