@@ -16,6 +16,7 @@ Here is a brief introduction to this website.
 ![巴哈3](https://user-images.githubusercontent.com/71260071/135491257-c55b8ec0-34ac-435a-8b4a-5e1f5159acd5.PNG)
 
 For anime enthusiasts, is's important to decide which anime to watch.
+
 So I built a system with GUI to sort out the information(e.g., total vies, user ratings) of upcoming anime, as a criteria.
 
 Below are some demo pictures about this system:
