@@ -4,6 +4,9 @@ A system to introduce upcoming anime on this website : 動畫瘋 and visualize t
 
 # Overview 
 
+introduction PPT: [Bahamut-Anime-Analysis.pptx](https://github.com/wei-0321/Bahamut-Anime-Analysis/files/7360276/Bahamut-Anime-Analysis.pptx)
+
+
 I collected data from the website named "動畫瘋", which is an anime streaming platform in Taiwan. 
 
 Here is a brief introduction to this website.
