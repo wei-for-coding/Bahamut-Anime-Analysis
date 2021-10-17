@@ -13,10 +13,10 @@ Here is a brief introduction to this website.
 
 (website homepage)
 ![巴哈1](https://user-images.githubusercontent.com/71260071/135490391-94df339e-a4ea-4d51-b41e-38c09f353bb2.PNG)
-![巴哈5](https://user-images.githubusercontent.com/71260071/135492809-e15fd126-71b6-4bb3-b49e-6679264796cb.PNG)
 
 (choose any anime you want to see, then enjoy watching anime)
-![巴哈3](https://user-images.githubusercontent.com/71260071/135491257-c55b8ec0-34ac-435a-8b4a-5e1f5159acd5.PNG)
+
+![image](https://user-images.githubusercontent.com/71260071/137641367-37315629-0a09-42d7-80f5-fe9808f16187.png)
 
 For anime enthusiasts, is's important to decide which anime to watch.
 
