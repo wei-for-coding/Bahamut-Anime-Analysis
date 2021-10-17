@@ -20,7 +20,7 @@ Here is a brief introduction to this website.
 
 For anime enthusiasts, is's important to decide which anime to watch.
 
-So I built a system with GUI to sort out the information(e.g., total vies, user ratings) of upcoming anime, as a criteria.
+So I built a system with GUI to sort out the information(e.g., total views, user ratings) of upcoming anime, as a criteria.
 
 Below are some demo pictures about this system:
 
