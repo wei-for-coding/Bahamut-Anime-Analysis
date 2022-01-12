@@ -1,6 +1,6 @@
 # Bahamut-Anime-Analysis
-A system to introduce upcoming anime on this website : 動畫瘋, provided with interactive graphical user interface(GUI).  
-(巴哈姆特動畫瘋動漫新番之分析 )
+A system to introduce upcoming anime on this website - 動畫瘋, provided with interactive graphical user interface(GUI).  
+
 
 # Overview 
 
